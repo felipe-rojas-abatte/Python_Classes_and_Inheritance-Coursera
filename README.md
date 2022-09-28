@@ -1,1 +1,1 @@
-# Python_Classes_and_Inheritance-Coursera
+# Python Classes and Inheritance
